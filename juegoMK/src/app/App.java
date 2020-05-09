@@ -20,7 +20,7 @@ public class App {
         p1.salud = 100;
 
         Personaje p2 = new Personaje();
-        p2.nombre = "Scorpio";
+        p2.nombre = "Scorpion";
         p2.color = ANSI_YELLOW;
         p2.salud = 100;
 
